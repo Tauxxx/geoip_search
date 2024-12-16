@@ -1,0 +1,27 @@
+#geoip-form {
+    margin: 0.5rem 0;
+}
+
+#geoip-form input {
+    border: 1px solid gray;
+    padding: .4rem;
+    border-radius: 8px;
+}
+
+#geoip-form input:focus {
+    outline: none;
+}
+
+#geoip-form button[type="submit"] {
+    border: 1px solid gray;
+    padding: .4rem .8rem;
+    border-radius: 8px;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    border: 1px solid #ffadb4;
+    color: #58151c;
+    padding:1rem;    border-radius: 8px;
+
+}
